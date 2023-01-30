@@ -1,0 +1,8 @@
+site_name: My Docs
+
+nav:
+    - Home: index.md
+    - Test: boardsetup.md
+    - Ap: niupi.md
+
+theme: readthedocs
